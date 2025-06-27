@@ -1,0 +1,1 @@
+Cosmetic Insights Dashboard helps users explore cosmetic product trends and brand performance through interactive visualizations. It also shows how suitable products are for different skin types using data from Tableau.
